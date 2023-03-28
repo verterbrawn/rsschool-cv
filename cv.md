@@ -11,3 +11,9 @@ ___
 * Git, GitHub
 * VS 2022, IntelliJ IDEA, Android Studio
 ___
+#####Languages:
+* Belarusian - Native
+* Russian - Native
+* English - A1
+* French - A2
+___
