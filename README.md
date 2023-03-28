@@ -1,1 +1,1 @@
-# rsschool-cv
+https://verterbrawn.github.io/rsschool-cv/cv
